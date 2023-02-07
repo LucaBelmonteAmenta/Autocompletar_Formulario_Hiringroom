@@ -1,0 +1,73 @@
+Comienzo de la primera parte:
+
+
+
+input | firstname | Lucas
+input | lastname | Belmonte Amenta
+input | email | lucasbelmonteamenta2.0@gmail.com
+input | dni | 41589115
+bad_input | //*[@id="phone"] | 3492667666
+input | adress | Provincia de Córdoba 797
+comboBox | type_phone_1 | Celular/Móvil
+comboBox | gender | Masculino
+comboBox | nationality | Argentina
+comboBox | location.country | Argentina
+comboBox | location.province | Tucuman
+comboBox | location.city | San Miguel de Tucumán
+comboBox | bornObj.day | 28
+comboBox | bornObj.month | Septiembre
+comboBox | bornObj.year | 1998
+
+
+
+Comienzo de la segunda parte:
+
+
+
+input | url_linkedin | https://www.linkedin.com/in/lucas-belmonte-amenta/
+
+input | posts.0.company | Rafaela Motores S. A.
+input | posts.0.job | Asistente Técnico (Pasante)
+comboBox | posts.0.seniority | -
+comboBox | posts.0.locality | Argentina
+comboBox | posts.0.industry | Otra
+comboBox | posts.0.area | Tecnología, Sistemas y Telecomunicaciones
+comboBox | posts.0.area | Soporte Técnico
+comboBox | posts.0.from_month | Septiembre
+comboBox | posts.0.from_year | 2019
+comboBox | posts.0.to_month | Noviembre
+comboBox | posts.0.to_year | 2019
+textarea | posts.0.descript | Gestión integral del equipo tecnológico/informático no industrial utilizado por la empresa para las actividades de oficina (Ej: impresoras, fotocopiadoras, terminales bobas, equipo audiovisual, etc.). Abarcaba el mantenimiento correctivo y preventivo, la gestión de incidentes de clientes internos, la gestión de los permisos y accesos a los sistemas, las compras de insumos informáticos y la administración de los backups y respaldos.
+
+
+
+input | educations.0.degree | Ingeniería en Informática
+comboBox | educations.0.locality | Argentina
+bad_comboBox | //input[@id="educations.0.intitution"] | Universidad del Norte Santo Tomás de Aquino
+comboBox | educations.0.study_level | Universitario
+comboBox | educations.0.study_status | En Curso
+comboBox | educations.0.area_education | Ing. Informática
+comboBox | educations.0.from_year | 2021
+textarea | educations.0.descript | Me transferí a la UNSTA habiendo cruzado la mayor parte de la misma carrera en la UCSE. Después de ciertas demoras administrativas, se me reconocieron varias materias (de mi anterior universidad) , y actualmente cuento con 34 materias aprobadas de las 55 que componen la totalidad de la carrera. 
+
+input | educations.1.degree | Ingeniería en Informática
+comboBox | educations.1.locality | Argentina
+bad_comboBox | //input[@id="educations.1.intitution"] | Universidad Católica de Santiago del Estero
+comboBox | educations.1.study_level | Universitario
+comboBox | educations.1.study_status | Abandonado
+comboBox | educations.1.area_education | Ing. Informática
+comboBox | educations.1.from_year | 2017
+comboBox | educations.1.to_year | 2020
+textarea | educations.1.descript | Aunque figure que la carrera fue "abandonada", en realidad resulta que me transferí a la UNSTA manteniendo la misma carrera, la cual mantengo en curso en la actualidad. Al momento de transferirme, contaba con 29 materias aprobadas de las 45 que componían la totalidad de la carrera.
+
+input | educations.2.degree | Bachiller con orientación en Informática
+comboBox | educations.2.locality | Argentina
+bad_comboBox | //input[@id="educations.2.intitution"] | Escuela Media Particular N° 8140 San José
+comboBox | educations.2.study_level | Secundario
+comboBox | educations.2.study_status | Graduado
+comboBox | educations.2.area_education | Bachiller
+comboBox | educations.2.from_year | 2012
+comboBox | educations.2.to_year | 2016
+textarea | educations.2.descript | Educación Secundaria Completa. Promedio: 8,34. Rango promedio: desde 1 hasta 10. 
+
+textarea | additional_message | Mi objetivo principal no es gozar de un gran sueldo, sino de ganar experiencia laboral. Estoy convencido que puedo aportarles mi compromiso, predisposición a aprender, proactividad y el entusiasmo por un trabajo bien hecho. En definitiva, creo que puedo agregarle valor cualquiera sean las responsabilidades o las tareas que se  me encomiende. Además, considero que trabajar en su empresa sería una gran oportunidad para el desarrollo de mi carrera profesional.

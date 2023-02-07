@@ -1,0 +1,255 @@
+[
+    {
+        "Nombre Modulo" : "Primera parte",
+        "Contenido" : [
+            [
+                {
+                    "id_category": "firstname",
+                    "user_data": "Lucas"
+                },
+                {
+                    "id_category": "lastname",
+                    "user_data": "Belmonte Amenta"
+                },
+                {
+                    "id_category": "dni",
+                    "user_data": "41589115"
+                },
+                {
+                    "id_category": "email",
+                    "user_data": "lucasbelmonteamenta2.0@gmail.com"
+                },
+                {
+                    "id_category": "phone",
+                    "user_data": "3492667666"
+                },
+                {
+                    "id_category": "adress",
+                    "user_data": "Provincia de Córdoba 797"
+                },
+                {
+                    "id_category": "type_phone_1",
+                    "user_data": "Celular/Móvil"
+                },
+                {
+                    "id_category": "gender",
+                    "user_data": "Masculino"
+                },
+                {
+                    "id_category": "nationality",
+                    "user_data": "Argentina"
+                },
+                {
+                    "id_category": "location.country",
+                    "user_data": "Argentina"
+                },
+                {
+                    "id_category": "location.province",
+                    "user_data": "Tucuman"
+                },
+                {
+                    "id_category": "location.city",
+                    "user_data": "San Miguel de Tucumán"
+                },
+                {
+                    "id_category": "bornObj.day",
+                    "user_data": "28"
+                },
+                {
+                    "id_category": "bornObj.month",
+                    "user_data": "Septiembre"
+                },
+                {
+                    "id_category": "bornObj.year",
+                    "user_data": "1998"
+                }
+            ]
+        ]
+    },
+    {    
+        "Nombre Modulo" : "Segunda parte",
+        "Contenido" : [
+            [
+                {
+                    "id_category": "url_linkedin",
+                    "user_data": "https://www.linkedin.com/in/lucas-belmonte-amenta/"
+                },
+                {
+                    "id_category": "additional_message",
+                    "user_data": "Mi objetivo principal no es gozar de un gran sueldo, sino de ganar experiencia laboral. Estoy convencido que puedo aportarles mi compromiso, predisposición a aprender, proactividad y el entusiasmo por un trabajo bien hecho. En definitiva, creo que puedo agregarle valor cualquiera sean las responsabilidades o las tareas que se  me encomiende. Además, considero que trabajar en su empresa sería una gran oportunidad para el desarrollo de mi carrera profesional."
+                }
+            ]
+        ]
+    },
+    {
+        "Nombre Modulo" : "Experiencia laboral",
+        "Contenido" : [
+            [ 
+                {
+                    "id_category": "posts.0.company",
+                    "user_data": "Rafaela Motores S. A."
+                },
+                {
+                    "id_category": "posts.0.job",
+                    "user_data": "Asistente Técnico (Pasante)"
+                },
+                {
+                    "id_category": "posts.0.seniority",
+                    "user_data": "-"
+                },
+                {
+                    "id_category": "posts.0.locality",
+                    "user_data": "Argentina"
+                },
+                {
+                    "id_category": "posts.0.industry",
+                    "user_data": "Otra"
+                },
+                {
+                    "id_category": "posts.0.area",
+                    "user_data": "Tecnología, Sistemas y Telecomunicaciones"
+                },
+                {
+                    "id_category": "posts.0.area",
+                    "user_data": "Soporte Técnico"
+                },
+                {
+                    "id_category": "posts.0.from_month",
+                    "user_data": "Septiembre"
+                },
+                {
+                    "id_category": "posts.0.from_year",
+                    "user_data": "2019"
+                },
+                {
+                    "id_category": "posts.0.to_month",
+                    "user_data": "Noviembre"
+                },
+                {
+                    "id_category": "posts.0.to_year",
+                    "user_data": "2019"
+                },
+                {
+                    "id_category": "posts.0.descript",
+                    "user_data": "Gestión integral del equipo tecnológico/informático no industrial utilizado por la empresa para las actividades de oficina (Ej: impresoras, fotocopiadoras, terminales bobas, equipo audiovisual, etc.). Abarcaba el mantenimiento correctivo y preventivo, la gestión de incidentes de clientes internos, la gestión de los permisos y accesos a los sistemas, las compras de insumos informáticos y la administración de los backups y respaldos."
+                }
+            ]
+        ]
+    },
+    {
+        "Nombre Modulo" : "Educations",
+        "Contenido" : [
+            [ 
+                {
+                    "id_category": "educations.0.degree",
+                    "user_data": "Ingeniería en Informática"
+                },
+                {
+                    "id_category": "educations.0.locality",
+                    "user_data": "Argentina"
+                },
+                {
+                    "id_category": "educations.0.intitution",
+                    "user_data": "Universidad del Norte Santo Tomás de Aquino"
+                },
+                {
+                    "id_category": "educations.0.study_level",
+                    "user_data": "Universitario"
+                },
+                {
+                    "id_category": "educations.0.study_status",
+                    "user_data": "En Curso"
+                },
+                {
+                    "id_category": "educations.0.area_education",
+                    "user_data": "Ing. Informática"
+                },
+                {
+                    "id_category": "educations.0.from_year",
+                    "user_data": "2021"
+                },
+                {
+                    "id_category": "educations.0.descript",
+                    "user_data": "Me transferí a la UNSTA habiendo cruzado la mayor parte de la misma carrera en la UCSE. Después de ciertas demoras administrativas, se me reconocieron varias materias (de mi anterior universidad) , y actualmente cuento con 42 materias aprobadas de las 55 que componen la totalidad de la carrera."
+                }
+            ],
+            [ 
+                {
+                    "id_category": "educations.1.degree",
+                    "user_data": "Ingeniería en Informática"
+                },
+                {
+                    "id_category": "educations.1.locality",
+                    "user_data": "Argentina"
+                },
+                {
+                    "id_category": "educations.1.intitution",
+                    "user_data": "Universidad Católica de Santiago del Estero"
+                },
+                {
+                    "id_category": "educations.1.study_level",
+                    "user_data": "Universitario"
+                },
+                {
+                    "id_category": "educations.1.study_status",
+                    "user_data": "Abandonado"
+                },
+                {
+                    "id_category": "educations.1.area_education",
+                    "user_data": "Ing. Informática"
+                },
+                {
+                    "id_category": "educations.1.from_year",
+                    "user_data": "2017"
+                },
+                {
+                    "id_category": "educations.1.to_year",
+                    "user_data": "2020"
+                },
+                {
+                    "id_category": "educations.1.descript",
+                    "user_data": "Aunque figure que la carrera fue abandonada, en realidad resulta que me transferí a la UNSTA manteniendo la misma carrera, la cual mantengo en curso en la actualidad. Al momento de transferirme, contaba con 29 materias aprobadas de las 45 que componían la totalidad de la carrera."
+                }
+            ],
+            [ 
+                {
+                    "id_category": "educations.2.degree",
+                    "user_data": "Bachiller con orientación en Informática"
+                },
+                {
+                    "id_category": "educations.2.locality",
+                    "user_data": "Argentina"
+                },
+                {
+                    "id_category": "educations.2.intitution",
+                    "user_data": "Escuela Media Particular N° 8140 San José"
+                },
+                {
+                    "id_category": "educations.2.study_level",
+                    "user_data": "Secundario"
+                },
+                {
+                    "id_category": "educations.2.study_status",
+                    "user_data": "Graduado"
+                },
+                {
+                    "id_category": "educations.2.area_education",
+                    "user_data": "Bachiller"
+                },
+                {
+                    "id_category": "educations.2.from_year",
+                    "user_data": "2012"
+                },
+                {
+                    "id_category": "educations.2.to_year",
+                    "user_data": "2016"
+                },
+                {
+                    "id_category": "educations.2.descript",
+                    "user_data": "Educación Secundaria Completa. Promedio: 8,34. Rango promedio: desde 1 hasta 10."
+                }
+            ]
+        ]
+
+    }
+]
